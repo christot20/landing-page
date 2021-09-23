@@ -1,4 +1,6 @@
 # landing-page
+Make a landing page with the given layout
+
 Students were given a page layout from the Odin project with a set of colors and font sizes. With this, they were to make a webpage that either copied or followed the format to the best of their ability. I dedicated my page to my favorite video game character Jax from League of Legends. This Project was created from the new HTML and CSS Curriculum from the Odin Project.
 
 1. HTML Semantic Tags and Proper Structure (Head, body, img, span, Footer, Header, etc.)
