@@ -3,8 +3,6 @@ Students were given a page layout from the Odin project with a set of colors and
 
 1. HTML Semantic Tags and Proper Structure (Head, body, img, span, Footer, Header, etc.)
 2. Extensive and much better usage of CSS flexbox and box model.
-3. Incorporated mobile first design for better user experience.
-4. Fully responsive layout that fits on majority, if not all, devices. 
 
 What I learned:
 1. CSS Flexbox to create layouts of different section of a webpage
